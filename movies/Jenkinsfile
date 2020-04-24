@@ -12,8 +12,8 @@ pipeline {
 
     environment {
         //TODO: Customize these variables for your environment
-        DEV_PROJECT = "mtsuda0120-movies-dev"
-        STAGE_PROJECT = "mtsuda0120-movies-stage"
+        DEV_PROJECT = "mtsuda0120-books-dev"
+        STAGE_PROJECT = "mtsuda0120-books-stage"
         APP_GIT_URL = "https://github.com/mayuka0120/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-ap3.prod.nextcle.com/repository/java"
 
